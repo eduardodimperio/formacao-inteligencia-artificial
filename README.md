@@ -6,5 +6,5 @@ Este projeto é destinado a formação Inteligência Artificial da Data Science 
 
 1. Introducao a inteligencia artificial
    1. Introdução
-   2. Preparacao do ambiente
-   3. Agentes Inteligentes e Sistemas de busca
+   2. Agentes Inteligentes e Sistemas de busca
+   3. Agentes Lógicos
