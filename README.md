@@ -13,3 +13,11 @@ Este projeto é destinado a formação Inteligência Artificial da Data Science 
    6. Aprendizagem
    7. Processamento de liguagem natural
    8. Percepção e Processamento de Imagens
+   9. Fundamentos Matematicos
+
+2. Deep Learning Frameworks
+   1. Introdução
+   2. Quickstart
+   3. Passo a Passo
+   4. Tensores e Regressão Linear
+   5. Machine Learning
