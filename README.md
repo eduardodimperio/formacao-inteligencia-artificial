@@ -2,6 +2,10 @@
 
 Este projeto é destinado a formação Inteligência Artificial da Data Science Academy
 
+> Links
+
+https://www.deeplearningbook.com.br/
+
 > Modulos
 
 1. Introducao a inteligencia artificial
@@ -21,3 +25,4 @@ Este projeto é destinado a formação Inteligência Artificial da Data Science 
    3. Passo a Passo
    4. Tensores e Regressão Linear
    5. Machine Learning
+   6. Deep Learning
