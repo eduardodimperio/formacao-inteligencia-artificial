@@ -26,3 +26,6 @@ https://www.deeplearningbook.com.br/
    4. Tensores e Regressão Linear
    5. Machine Learning
    6. Deep Learning
+   7. Deep Learning pt 2
+   8. Rodando em GPU
+   9. Keras
